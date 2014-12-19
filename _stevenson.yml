@@ -1,0 +1,12 @@
+'_config.yml':
+  title:
+    question: 'Title: '
+    limit: 40
+  email:
+    question: 'Email: '
+    email: true
+  description:
+    question: 'Description: '
+  url:
+    question: 'URL: '
+    url: true
