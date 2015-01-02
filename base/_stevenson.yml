@@ -1,12 +1,13 @@
 '_config.yml':
   title:
-    question: 'Title: '
-    limit: 40
+    type: 'select'
+    prompt: 'Title: '
   email:
-    question: 'Email: '
-    email: true
+    type: 'email'
+    prompt: 'Email: '
   description:
-    question: 'Description: '
+    type: 'text'
+    prompt: 'Description: '
   url:
-    question: 'URL: '
-    url: true
+    type: 'url'
+    prompt: 'URL: '
