@@ -1,6 +1,6 @@
 '_config.yml':
   title:
-    type: 'select'
+    type: 'text'
     prompt: 'Title: '
   email:
     type: 'email'
